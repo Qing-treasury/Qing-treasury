@@ -8,5 +8,5 @@ https://www.yuque.com/dashboard
 https://qing-treasury.github.io/QingTreasury.github.io/
 ----
 
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=Qing-treasury&show_icons=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qing-treasury)](https://github.com/Qing-treasury/)
+![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=Qing-treasury&show_icons=true) 
