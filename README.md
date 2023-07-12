@@ -6,7 +6,14 @@ https://www.yuque.com/dashboard
 <br>
 📫 My Web:<br>
 https://qing-treasury.github.io/QingTreasury.github.io/
-----
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qing-treasury)](https://github.com/Qing-treasury/)
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=Qing-treasury&show_icons=true) 
+---
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Qing-treasury" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Qing-treasury&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+---
